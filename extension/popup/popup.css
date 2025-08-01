@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  min-width: 220px;
+  padding: 16px;
+  background: #f7f7fa;
+}
+#status {
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+#coolingBtn {
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#coolingBtn:hover {
+  background: #1565c0;
+}
